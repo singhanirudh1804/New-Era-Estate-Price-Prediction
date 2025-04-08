@@ -21,7 +21,13 @@ This project uses a **Logistic Regression** model to predict estate pricing cate
 - scikit-learn
 - Seaborn, Matplotlib
 
-## 🚀 Run Locally
-```bash
-git clone https://github.com/yourusername/new-era-estate-prediction.git
-cd new-era-estate-prediction
+  ## ✅ Status
+✅ Completed - EDA & visualization complete.
+
+## 🙌 Author
+- **Anirudh Singh** | [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)
+
+---
+
+## 📌 License
+This project is open-source and available under the [MIT License](LICENSE).
